@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cc4769e5.css",
+    "main.js": "/static/js/main.1cf14965.js",
+    "static/media/restauranfood.jpg": "/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
+    "static/media/logo.svg": "/static/media/logo.926f3e53f6396926067f6f690f9c539d.svg",
+    "static/media/logo2.svg": "/static/media/logo2.fa696b8367ebf3aca6597836eed09335.svg",
+    "index.html": "/index.html",
+    "main.cc4769e5.css.map": "/static/css/main.cc4769e5.css.map",
+    "main.1cf14965.js.map": "/static/js/main.1cf14965.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc4769e5.css",
+    "static/js/main.1cf14965.js"
+  ]
+}
